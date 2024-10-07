@@ -1,0 +1,24 @@
+userName: carlastata_TQdEoa
+accessKey: UrxkhvgxBstWxuvpSVcs
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: Chrome
+    browserVersion: 103.0
+  # - os: Windows
+  #   osVersion: 10
+  #   browserName: Firefox
+  #   browserVersion: 102.0
+  # - os: OS X
+  #   osVersion: Big Sur
+  #   browserName: Safari
+  #   browserVersion: 14.1
+parallelsPerPlatform: 1
+browserstackLocal: true
+buildName: Virtuosity-testing
+projectName: BrowserStack Sample
+debug: false
+networkLogs: false
+consoleLogs: errors
+geoLocation: BR
+
